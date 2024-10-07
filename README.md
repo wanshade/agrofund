@@ -7,7 +7,7 @@ This project is submitted for the **Buildathon Base Around The World** - Southea
 
 ## Overview
 
-AgroFund is a DeFi protocol that connects farmers seeking funding with investors looking to support agricultural projects. The platform uses IDRB (Indonesian Rupiah Backed) stablecoin for all transactions, ensuring stability and ease of use for both farmers and investors.
+AgroFund is a DeFi protocol that connects farmers seeking funding with investors looking to support agricultural projects. The platform uses IDRB (Indonesian Rupiah Backed) stablecoin for all transactions just mock token :).
 
 ## Features
 
