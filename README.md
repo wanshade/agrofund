@@ -113,7 +113,7 @@ The contracts emit various events for easy tracking:
 ## Deployed Addresses
 
 - IDRB Token: `0x1d9F4aeb3ecF2De3a5B0f89333ce8157Cb62b4d7`
-- AgroFundFactory: [To be added after deployment]
+- AgroFundFactory: `0x4e61Cdfcf459125f06e7C3e038f1607Dd088486f`
 
 ## License
 
